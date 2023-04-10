@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1871dc09.css",
-    "main.js": "/static/js/main.aaf44680.js",
+    "main.js": "/static/js/main.c45b0b68.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Channel-app.png": "/static/media/Channel-app.205535db4d3d0b7639c5.png",
     "static/media/chat.png": "/static/media/chat.334f151a69a080fc46e6.png",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.1871dc09.css.map": "/static/css/main.1871dc09.css.map",
-    "main.aaf44680.js.map": "/static/js/main.aaf44680.js.map",
+    "main.c45b0b68.js.map": "/static/js/main.c45b0b68.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1871dc09.css",
-    "static/js/main.aaf44680.js"
+    "static/js/main.c45b0b68.js"
   ]
 }
